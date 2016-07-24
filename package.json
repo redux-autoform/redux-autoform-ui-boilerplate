@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redux-autoform/redux-autoform-material-ui.git"
+    "url": "git+https://github.com/redux-autoform/redux-autoform-ui-boilerplate.git"
   },
   "keywords": [
     "autoform",
@@ -21,11 +21,10 @@
   "author": "Jonatan Salas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redux-autoform/redux-autoform-material-ui/issues"
+    "url": "https://github.com/redux-autoform/redux-autoform-ui-boilerplate/issues"
   },
-  "homepage": "https://github.com/redux-autoform/redux-autoform-material-ui#readme",
+  "homepage": "https://github.com/redux-autoform/redux-autoform-ui-boilerplate#readme",
   "dependencies": {
-    "material-ui": "^0.15.2",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "redux-autoform-utils": "^1.0.3"
