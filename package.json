@@ -1,7 +1,7 @@
 {
-  "name": "redux-autoform-material-ui",
+  "name": "redux-autoform-ui-boilerplate",
   "version": "1.0.0",
-  "description": "Material-UI integration for redux-autoform",
+  "description": "Starter kit for UI integration on redux-autoform",
   "main": "index.js",
   "scripts": {
     "build-lib": "cross-env NODE_ENV=production babel-node ./tools/build-lib.js",
@@ -16,7 +16,7 @@
     "autoform",
     "react",
     "redux",
-    "material-ui"
+    "custom-ui"
   ],
   "author": "Jonatan Salas",
   "license": "MIT",
